@@ -1,0 +1,11 @@
+# CodeChallenge03
+
+Title: One Page Website with Hover Effect and Sidebar Menu
+
+Description:
+
+This repository contains a one-page website that was built using HTML, SASS, and JavaScript. The website features a modern design with hover effects on the images, a responsive sidebar menu, and a hamburger menu for small screens.
+
+The hover effect was achieved using JavaScript, and it adds an interactive element to the images on the page. The sidebar menu allows users to easily navigate the site, and it's responsive so it works well on screens of all sizes. The hamburger menu is another great feature for mobile users.
+
+Overall, this website is a great example of modern web design and development techniques. It's perfect for anyone who wants to learn more about HTML, SASS, and JavaScript, and it's a great starting point for building your own one-page website.
